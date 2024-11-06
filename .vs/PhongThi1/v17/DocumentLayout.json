@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vuvan\\Downloads\\PhongThi1\\PhongThi1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0FF589-2123-4431-AE46-98FFBA254E82}|PhongThi1\\PhongThi1.csproj|c:\\users\\vuvan\\downloads\\phongthi1\\phongthi1\\phongthi1\\.gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4E0FF589-2123-4431-AE46-98FFBA254E82}|PhongThi1\\PhongThi1.csproj|solutionrelative:phongthi1\\.gitignore.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0FF589-2123-4431-AE46-98FFBA254E82}|PhongThi1\\PhongThi1.csproj|c:\\users\\vuvan\\downloads\\phongthi1\\phongthi1\\phongthi1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E0FF589-2123-4431-AE46-98FFBA254E82}|PhongThi1\\PhongThi1.csproj|solutionrelative:phongthi1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0FF589-2123-4431-AE46-98FFBA254E82}|PhongThi1\\PhongThi1.csproj|c:\\users\\vuvan\\downloads\\phongthi1\\phongthi1\\phongthi1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E0FF589-2123-4431-AE46-98FFBA254E82}|PhongThi1\\PhongThi1.csproj|solutionrelative:phongthi1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0FF589-2123-4431-AE46-98FFBA254E82}|PhongThi1\\PhongThi1.csproj|c:\\users\\vuvan\\downloads\\phongthi1\\phongthi1\\phongthi1\\models\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E0FF589-2123-4431-AE46-98FFBA254E82}|PhongThi1\\PhongThi1.csproj|solutionrelative:phongthi1\\models\\productsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0FF589-2123-4431-AE46-98FFBA254E82}|PhongThi1\\PhongThi1.csproj|c:\\users\\vuvan\\downloads\\phongthi1\\phongthi1\\phongthi1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E0FF589-2123-4431-AE46-98FFBA254E82}|PhongThi1\\PhongThi1.csproj|solutionrelative:phongthi1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0FF589-2123-4431-AE46-98FFBA254E82}|PhongThi1\\PhongThi1.csproj|c:\\users\\vuvan\\downloads\\phongthi1\\phongthi1\\phongthi1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E0FF589-2123-4431-AE46-98FFBA254E82}|PhongThi1\\PhongThi1.csproj|solutionrelative:phongthi1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0FF589-2123-4431-AE46-98FFBA254E82}|PhongThi1\\PhongThi1.csproj|c:\\users\\vuvan\\downloads\\phongthi1\\phongthi1\\phongthi1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4E0FF589-2123-4431-AE46-98FFBA254E82}|PhongThi1\\PhongThi1.csproj|solutionrelative:phongthi1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0FF589-2123-4431-AE46-98FFBA254E82}|PhongThi1\\PhongThi1.csproj|c:\\users\\vuvan\\downloads\\phongthi1\\phongthi1\\phongthi1\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4E0FF589-2123-4431-AE46-98FFBA254E82}|PhongThi1\\PhongThi1.csproj|solutionrelative:phongthi1\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0FF589-2123-4431-AE46-98FFBA254E82}|PhongThi1\\PhongThi1.csproj|c:\\users\\vuvan\\downloads\\phongthi1\\phongthi1\\phongthi1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E0FF589-2123-4431-AE46-98FFBA254E82}|PhongThi1\\PhongThi1.csproj|solutionrelative:phongthi1\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\vuvan\\Downloads\\PhongThi1\\PhongThi1\\PhongThi1\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PhongThi1\\Views\\Products\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\vuvan\\Downloads\\PhongThi1\\PhongThi1\\PhongThi1\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "PhongThi1\\Views\\Products\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T15:11:30.11Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore.txt",
+              "DocumentMoniker": "C:\\Users\\vuvan\\Downloads\\PhongThi1\\PhongThi1\\PhongThi1\\.gitignore.txt",
+              "RelativeDocumentMoniker": "PhongThi1\\.gitignore.txt",
+              "ToolTip": "C:\\Users\\vuvan\\Downloads\\PhongThi1\\PhongThi1\\PhongThi1\\.gitignore.txt",
+              "RelativeToolTip": "PhongThi1\\.gitignore.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-06T17:30:51.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vuvan\\Downloads\\PhongThi1\\PhongThi1\\PhongThi1\\Program.cs",
+              "RelativeDocumentMoniker": "PhongThi1\\Program.cs",
+              "ToolTip": "C:\\Users\\vuvan\\Downloads\\PhongThi1\\PhongThi1\\PhongThi1\\Program.cs",
+              "RelativeToolTip": "PhongThi1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T16:08:26.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\vuvan\\Downloads\\PhongThi1\\PhongThi1\\PhongThi1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PhongThi1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\vuvan\\Downloads\\PhongThi1\\PhongThi1\\PhongThi1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PhongThi1\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T15:54:47.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\vuvan\\Downloads\\PhongThi1\\PhongThi1\\PhongThi1\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PhongThi1\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\vuvan\\Downloads\\PhongThi1\\PhongThi1\\PhongThi1\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PhongThi1\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-06T15:36:30.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\vuvan\\Downloads\\PhongThi1\\PhongThi1\\PhongThi1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "PhongThi1\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\vuvan\\Downloads\\PhongThi1\\PhongThi1\\PhongThi1\\appsettings.Development.json",
+              "RelativeToolTip": "PhongThi1\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-06T15:35:01.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\vuvan\\Downloads\\PhongThi1\\PhongThi1\\PhongThi1\\appsettings.json",
+              "RelativeDocumentMoniker": "PhongThi1\\appsettings.json",
+              "ToolTip": "C:\\Users\\vuvan\\Downloads\\PhongThi1\\PhongThi1\\PhongThi1\\appsettings.json",
+              "RelativeToolTip": "PhongThi1\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-06T15:34:50.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\vuvan\\Downloads\\PhongThi1\\PhongThi1\\PhongThi1\\Models\\ProductsRepository.cs",
+              "RelativeDocumentMoniker": "PhongThi1\\Models\\ProductsRepository.cs",
+              "ToolTip": "C:\\Users\\vuvan\\Downloads\\PhongThi1\\PhongThi1\\PhongThi1\\Models\\ProductsRepository.cs",
+              "RelativeToolTip": "PhongThi1\\Models\\ProductsRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T14:09:14.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\vuvan\\Downloads\\PhongThi1\\PhongThi1\\PhongThi1\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "PhongThi1\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\vuvan\\Downloads\\PhongThi1\\PhongThi1\\PhongThi1\\Models\\Product.cs",
+              "RelativeToolTip": "PhongThi1\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T14:04:06.018Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

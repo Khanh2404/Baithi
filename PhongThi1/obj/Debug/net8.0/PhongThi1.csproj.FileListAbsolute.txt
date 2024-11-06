@@ -1,0 +1,90 @@
+C:\Users\vuvan\source\repos\PhongThi1\PhongThi1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\vuvan\source\repos\PhongThi1\PhongThi1\bin\Debug\net8.0\appsettings.json
+C:\Users\vuvan\source\repos\PhongThi1\PhongThi1\bin\Debug\net8.0\PhongThi1.staticwebassets.runtime.json
+C:\Users\vuvan\source\repos\PhongThi1\PhongThi1\bin\Debug\net8.0\PhongThi1.exe
+C:\Users\vuvan\source\repos\PhongThi1\PhongThi1\bin\Debug\net8.0\PhongThi1.deps.json
+C:\Users\vuvan\source\repos\PhongThi1\PhongThi1\bin\Debug\net8.0\PhongThi1.runtimeconfig.json
+C:\Users\vuvan\source\repos\PhongThi1\PhongThi1\bin\Debug\net8.0\PhongThi1.dll
+C:\Users\vuvan\source\repos\PhongThi1\PhongThi1\bin\Debug\net8.0\PhongThi1.pdb
+C:\Users\vuvan\source\repos\PhongThi1\PhongThi1\obj\Debug\net8.0\PhongThi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuvan\source\repos\PhongThi1\PhongThi1\obj\Debug\net8.0\PhongThi1.AssemblyInfoInputs.cache
+C:\Users\vuvan\source\repos\PhongThi1\PhongThi1\obj\Debug\net8.0\PhongThi1.AssemblyInfo.cs
+C:\Users\vuvan\source\repos\PhongThi1\PhongThi1\obj\Debug\net8.0\PhongThi1.csproj.CoreCompileInputs.cache
+C:\Users\vuvan\source\repos\PhongThi1\PhongThi1\obj\Debug\net8.0\PhongThi1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vuvan\source\repos\PhongThi1\PhongThi1\obj\Debug\net8.0\PhongThi1.RazorAssemblyInfo.cache
+C:\Users\vuvan\source\repos\PhongThi1\PhongThi1\obj\Debug\net8.0\PhongThi1.RazorAssemblyInfo.cs
+C:\Users\vuvan\source\repos\PhongThi1\PhongThi1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\vuvan\source\repos\PhongThi1\PhongThi1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\vuvan\source\repos\PhongThi1\PhongThi1\obj\Debug\net8.0\staticwebassets\msbuild.PhongThi1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vuvan\source\repos\PhongThi1\PhongThi1\obj\Debug\net8.0\staticwebassets\msbuild.build.PhongThi1.props
+C:\Users\vuvan\source\repos\PhongThi1\PhongThi1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PhongThi1.props
+C:\Users\vuvan\source\repos\PhongThi1\PhongThi1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PhongThi1.props
+C:\Users\vuvan\source\repos\PhongThi1\PhongThi1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\vuvan\source\repos\PhongThi1\PhongThi1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\vuvan\source\repos\PhongThi1\PhongThi1\obj\Debug\net8.0\scopedcss\bundle\PhongThi1.styles.css
+C:\Users\vuvan\source\repos\PhongThi1\PhongThi1\obj\Debug\net8.0\scopedcss\projectbundle\PhongThi1.bundle.scp.css
+C:\Users\vuvan\source\repos\PhongThi1\PhongThi1\obj\Debug\net8.0\PhongThi1.dll
+C:\Users\vuvan\source\repos\PhongThi1\PhongThi1\obj\Debug\net8.0\refint\PhongThi1.dll
+C:\Users\vuvan\source\repos\PhongThi1\PhongThi1\obj\Debug\net8.0\PhongThi1.pdb
+C:\Users\vuvan\source\repos\PhongThi1\PhongThi1\obj\Debug\net8.0\PhongThi1.genruntimeconfig.cache
+C:\Users\vuvan\source\repos\PhongThi1\PhongThi1\obj\Debug\net8.0\ref\PhongThi1.dll
+C:\Users\Dinh Hieu\OneDrive\Thư mục mới\PhongThi1\PhongThi1\PhongThi1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Dinh Hieu\OneDrive\Thư mục mới\PhongThi1\PhongThi1\PhongThi1\bin\Debug\net8.0\appsettings.json
+C:\Users\Dinh Hieu\OneDrive\Thư mục mới\PhongThi1\PhongThi1\PhongThi1\bin\Debug\net8.0\PhongThi1.staticwebassets.runtime.json
+C:\Users\Dinh Hieu\OneDrive\Thư mục mới\PhongThi1\PhongThi1\PhongThi1\bin\Debug\net8.0\PhongThi1.exe
+C:\Users\Dinh Hieu\OneDrive\Thư mục mới\PhongThi1\PhongThi1\PhongThi1\bin\Debug\net8.0\PhongThi1.deps.json
+C:\Users\Dinh Hieu\OneDrive\Thư mục mới\PhongThi1\PhongThi1\PhongThi1\bin\Debug\net8.0\PhongThi1.runtimeconfig.json
+C:\Users\Dinh Hieu\OneDrive\Thư mục mới\PhongThi1\PhongThi1\PhongThi1\bin\Debug\net8.0\PhongThi1.dll
+C:\Users\Dinh Hieu\OneDrive\Thư mục mới\PhongThi1\PhongThi1\PhongThi1\bin\Debug\net8.0\PhongThi1.pdb
+C:\Users\Dinh Hieu\OneDrive\Thư mục mới\PhongThi1\PhongThi1\PhongThi1\obj\Debug\net8.0\PhongThi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dinh Hieu\OneDrive\Thư mục mới\PhongThi1\PhongThi1\PhongThi1\obj\Debug\net8.0\PhongThi1.AssemblyInfoInputs.cache
+C:\Users\Dinh Hieu\OneDrive\Thư mục mới\PhongThi1\PhongThi1\PhongThi1\obj\Debug\net8.0\PhongThi1.AssemblyInfo.cs
+C:\Users\Dinh Hieu\OneDrive\Thư mục mới\PhongThi1\PhongThi1\PhongThi1\obj\Debug\net8.0\PhongThi1.csproj.CoreCompileInputs.cache
+C:\Users\Dinh Hieu\OneDrive\Thư mục mới\PhongThi1\PhongThi1\PhongThi1\obj\Debug\net8.0\PhongThi1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dinh Hieu\OneDrive\Thư mục mới\PhongThi1\PhongThi1\PhongThi1\obj\Debug\net8.0\PhongThi1.RazorAssemblyInfo.cache
+C:\Users\Dinh Hieu\OneDrive\Thư mục mới\PhongThi1\PhongThi1\PhongThi1\obj\Debug\net8.0\PhongThi1.RazorAssemblyInfo.cs
+C:\Users\Dinh Hieu\OneDrive\Thư mục mới\PhongThi1\PhongThi1\PhongThi1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Dinh Hieu\OneDrive\Thư mục mới\PhongThi1\PhongThi1\PhongThi1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Dinh Hieu\OneDrive\Thư mục mới\PhongThi1\PhongThi1\PhongThi1\obj\Debug\net8.0\staticwebassets\msbuild.PhongThi1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Dinh Hieu\OneDrive\Thư mục mới\PhongThi1\PhongThi1\PhongThi1\obj\Debug\net8.0\staticwebassets\msbuild.build.PhongThi1.props
+C:\Users\Dinh Hieu\OneDrive\Thư mục mới\PhongThi1\PhongThi1\PhongThi1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PhongThi1.props
+C:\Users\Dinh Hieu\OneDrive\Thư mục mới\PhongThi1\PhongThi1\PhongThi1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PhongThi1.props
+C:\Users\Dinh Hieu\OneDrive\Thư mục mới\PhongThi1\PhongThi1\PhongThi1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Dinh Hieu\OneDrive\Thư mục mới\PhongThi1\PhongThi1\PhongThi1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Dinh Hieu\OneDrive\Thư mục mới\PhongThi1\PhongThi1\PhongThi1\obj\Debug\net8.0\scopedcss\bundle\PhongThi1.styles.css
+C:\Users\Dinh Hieu\OneDrive\Thư mục mới\PhongThi1\PhongThi1\PhongThi1\obj\Debug\net8.0\scopedcss\projectbundle\PhongThi1.bundle.scp.css
+C:\Users\Dinh Hieu\OneDrive\Thư mục mới\PhongThi1\PhongThi1\PhongThi1\obj\Debug\net8.0\PhongThi1.dll
+C:\Users\Dinh Hieu\OneDrive\Thư mục mới\PhongThi1\PhongThi1\PhongThi1\obj\Debug\net8.0\refint\PhongThi1.dll
+C:\Users\Dinh Hieu\OneDrive\Thư mục mới\PhongThi1\PhongThi1\PhongThi1\obj\Debug\net8.0\PhongThi1.pdb
+C:\Users\Dinh Hieu\OneDrive\Thư mục mới\PhongThi1\PhongThi1\PhongThi1\obj\Debug\net8.0\PhongThi1.genruntimeconfig.cache
+C:\Users\Dinh Hieu\OneDrive\Thư mục mới\PhongThi1\PhongThi1\PhongThi1\obj\Debug\net8.0\ref\PhongThi1.dll
+C:\Users\vuvan\Downloads\PhongThi1\PhongThi1\PhongThi1\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\vuvan\Downloads\PhongThi1\PhongThi1\PhongThi1\bin\Debug\net8.0\appsettings.json
+C:\Users\vuvan\Downloads\PhongThi1\PhongThi1\PhongThi1\bin\Debug\net8.0\PhongThi1.staticwebassets.runtime.json
+C:\Users\vuvan\Downloads\PhongThi1\PhongThi1\PhongThi1\bin\Debug\net8.0\PhongThi1.exe
+C:\Users\vuvan\Downloads\PhongThi1\PhongThi1\PhongThi1\bin\Debug\net8.0\PhongThi1.deps.json
+C:\Users\vuvan\Downloads\PhongThi1\PhongThi1\PhongThi1\bin\Debug\net8.0\PhongThi1.runtimeconfig.json
+C:\Users\vuvan\Downloads\PhongThi1\PhongThi1\PhongThi1\bin\Debug\net8.0\PhongThi1.dll
+C:\Users\vuvan\Downloads\PhongThi1\PhongThi1\PhongThi1\bin\Debug\net8.0\PhongThi1.pdb
+C:\Users\vuvan\Downloads\PhongThi1\PhongThi1\PhongThi1\obj\Debug\net8.0\PhongThi1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuvan\Downloads\PhongThi1\PhongThi1\PhongThi1\obj\Debug\net8.0\PhongThi1.AssemblyInfoInputs.cache
+C:\Users\vuvan\Downloads\PhongThi1\PhongThi1\PhongThi1\obj\Debug\net8.0\PhongThi1.AssemblyInfo.cs
+C:\Users\vuvan\Downloads\PhongThi1\PhongThi1\PhongThi1\obj\Debug\net8.0\PhongThi1.csproj.CoreCompileInputs.cache
+C:\Users\vuvan\Downloads\PhongThi1\PhongThi1\PhongThi1\obj\Debug\net8.0\PhongThi1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vuvan\Downloads\PhongThi1\PhongThi1\PhongThi1\obj\Debug\net8.0\PhongThi1.RazorAssemblyInfo.cache
+C:\Users\vuvan\Downloads\PhongThi1\PhongThi1\PhongThi1\obj\Debug\net8.0\PhongThi1.RazorAssemblyInfo.cs
+C:\Users\vuvan\Downloads\PhongThi1\PhongThi1\PhongThi1\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\vuvan\Downloads\PhongThi1\PhongThi1\PhongThi1\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\vuvan\Downloads\PhongThi1\PhongThi1\PhongThi1\obj\Debug\net8.0\staticwebassets\msbuild.PhongThi1.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vuvan\Downloads\PhongThi1\PhongThi1\PhongThi1\obj\Debug\net8.0\staticwebassets\msbuild.build.PhongThi1.props
+C:\Users\vuvan\Downloads\PhongThi1\PhongThi1\PhongThi1\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.PhongThi1.props
+C:\Users\vuvan\Downloads\PhongThi1\PhongThi1\PhongThi1\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.PhongThi1.props
+C:\Users\vuvan\Downloads\PhongThi1\PhongThi1\PhongThi1\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\vuvan\Downloads\PhongThi1\PhongThi1\PhongThi1\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\vuvan\Downloads\PhongThi1\PhongThi1\PhongThi1\obj\Debug\net8.0\scopedcss\bundle\PhongThi1.styles.css
+C:\Users\vuvan\Downloads\PhongThi1\PhongThi1\PhongThi1\obj\Debug\net8.0\scopedcss\projectbundle\PhongThi1.bundle.scp.css
+C:\Users\vuvan\Downloads\PhongThi1\PhongThi1\PhongThi1\obj\Debug\net8.0\PhongThi1.dll
+C:\Users\vuvan\Downloads\PhongThi1\PhongThi1\PhongThi1\obj\Debug\net8.0\refint\PhongThi1.dll
+C:\Users\vuvan\Downloads\PhongThi1\PhongThi1\PhongThi1\obj\Debug\net8.0\PhongThi1.pdb
+C:\Users\vuvan\Downloads\PhongThi1\PhongThi1\PhongThi1\obj\Debug\net8.0\PhongThi1.genruntimeconfig.cache
+C:\Users\vuvan\Downloads\PhongThi1\PhongThi1\PhongThi1\obj\Debug\net8.0\ref\PhongThi1.dll
